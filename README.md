@@ -2,7 +2,7 @@
 # High-frequency evidence on the associations between meteorological variability and power quality in North Kivu’s healthcare facilities
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18510466.svg)](https://doi.org/10.5281/zenodo.18510466)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18510488.svg)](https://doi.org/10.5281/zenodo.18510488)
 
 This repository contains the code and data supporting the findings of the study **"High-frequency evidence on the associations between meteorological variability and power quality in North Kivu’s healthcare facilities"**
 
