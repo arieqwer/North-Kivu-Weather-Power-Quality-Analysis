@@ -1,0 +1,10 @@
+earthengine-api
+geemap
+xarray
+rioxarray
+rasterstats
+climate-indices
+pandas
+geopandas
+matplotlib
+netCDF4
