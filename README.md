@@ -15,10 +15,10 @@ Reliable electricity is essential for healthcare delivery, particularly in resou
 ```text
 ├── data/
 │   ├── north_kivu_spi_daily.csv         # Daily SPI 1 and 3 and dryness status for each selected Aire de Sante
-│   ├── Td_allAS_heatwave.csv.csv        # Td and heatwave status for all AS
-│   ├── Td_selectedAS_heatwave.csv.csv   # Td and heatwave status for selected AS
-│   ├── Tw_allAS_heatwave.csv.csv        # Tw and heatwave status for all AS
-│   ├── Tw_selectedAS_heatwave.csv.csv   # Tw and heatwave status for selected AS
+│   ├── Td_allAS_heatwave.csv            # Td and heatwave status for all AS
+│   ├── Td_selectedAS_heatwave.csv       # Td and heatwave status for selected AS
+│   ├── Tw_allAS_heatwave.csv            # Tw and heatwave status for all AS
+│   ├── Tw_selectedAS_heatwave.csv       # Tw and heatwave status for selected AS
 ├── notebooks/
 │   ├── SPI_calculation.ipynb            # Scripts to calculate SPI 1 and 3
 │   ├── Td&heatwave_calculation.ipynb    # Scripts to extract Td from ERA5 via GEE and determine heatwave status base on Td
